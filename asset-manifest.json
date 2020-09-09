@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/app-name/static/css/main.cf657fe0.chunk.css",
-    "main.js": "/app-name/static/js/main.7fd07250.chunk.js",
-    "main.js.map": "/app-name/static/js/main.7fd07250.chunk.js.map",
-    "runtime-main.js": "/app-name/static/js/runtime-main.2b2c0e16.js",
-    "runtime-main.js.map": "/app-name/static/js/runtime-main.2b2c0e16.js.map",
-    "static/js/2.6928a3ed.chunk.js": "/app-name/static/js/2.6928a3ed.chunk.js",
-    "static/js/2.6928a3ed.chunk.js.map": "/app-name/static/js/2.6928a3ed.chunk.js.map",
-    "index.html": "/app-name/index.html",
-    "precache-manifest.5d376c087802f4f839fbac1303c09a64.js": "/app-name/precache-manifest.5d376c087802f4f839fbac1303c09a64.js",
-    "service-worker.js": "/app-name/service-worker.js",
-    "static/css/main.cf657fe0.chunk.css.map": "/app-name/static/css/main.cf657fe0.chunk.css.map",
-    "static/js/2.6928a3ed.chunk.js.LICENSE.txt": "/app-name/static/js/2.6928a3ed.chunk.js.LICENSE.txt",
-    "static/media/left.png": "/app-name/static/media/left.6f9ab580.png",
-    "static/media/right.jpeg": "/app-name/static/media/right.3f7e9842.jpeg"
+    "main.css": "/homepage/static/css/main.cf657fe0.chunk.css",
+    "main.js": "/homepage/static/js/main.a17b51f2.chunk.js",
+    "main.js.map": "/homepage/static/js/main.a17b51f2.chunk.js.map",
+    "runtime-main.js": "/homepage/static/js/runtime-main.3ed86e83.js",
+    "runtime-main.js.map": "/homepage/static/js/runtime-main.3ed86e83.js.map",
+    "static/js/2.6928a3ed.chunk.js": "/homepage/static/js/2.6928a3ed.chunk.js",
+    "static/js/2.6928a3ed.chunk.js.map": "/homepage/static/js/2.6928a3ed.chunk.js.map",
+    "index.html": "/homepage/index.html",
+    "precache-manifest.c09a3fab0ef718f54162290cf78808cc.js": "/homepage/precache-manifest.c09a3fab0ef718f54162290cf78808cc.js",
+    "service-worker.js": "/homepage/service-worker.js",
+    "static/css/main.cf657fe0.chunk.css.map": "/homepage/static/css/main.cf657fe0.chunk.css.map",
+    "static/js/2.6928a3ed.chunk.js.LICENSE.txt": "/homepage/static/js/2.6928a3ed.chunk.js.LICENSE.txt",
+    "static/media/left.png": "/homepage/static/media/left.6f9ab580.png",
+    "static/media/right.jpeg": "/homepage/static/media/right.3f7e9842.jpeg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b2c0e16.js",
+    "static/js/runtime-main.3ed86e83.js",
     "static/js/2.6928a3ed.chunk.js",
     "static/css/main.cf657fe0.chunk.css",
-    "static/js/main.7fd07250.chunk.js"
+    "static/js/main.a17b51f2.chunk.js"
   ]
 }
